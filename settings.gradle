@@ -1,0 +1,5 @@
+include ':utils'
+include ':feature'
+include ':lib'
+include ':app'
+rootProject.name = "disample"
